@@ -10,7 +10,7 @@ This project is a **Class Result Analysis Dashboard** built in Microsoft Excel. 
 - 📊 Class Metrics – Total students, pass/fail rate, class average, highest and lowest scores.
 - 🏆 Marks Analysis – Student rankings and overall performance.
 - 🎯 Grade Distribution – Distribution of grades (A–F).
-- 📚 Subject Average – Average marks for English, Urdu, Maths, Science, Islamiyat, and Tests.
+- 📚 Subject Average – Average marks for English, Urdu, Maths, Science, Islamyat, and Tests.
 - 🏠 Interactive Home Page – One-click navigation using hyperlinks.
 - 🔙 Back to Home Button – Easy navigation between worksheets.
 
@@ -39,6 +39,7 @@ This project is a **Class Result Analysis Dashboard** built in Microsoft Excel. 
 
 ## 📂 Files Included
 - `excel-result-tracker1.xlsx`  
+- `Excel-Result-Tracker.csv`  
 - `README.md`  
 - `Project Screenshots/`  
 
@@ -66,6 +67,7 @@ This project is a **Class Result Analysis Dashboard** built in Microsoft Excel. 
 3. Go to the **Home** worksheet.  
 4. Use the navigation buttons to move between worksheets.  
 5. Explore dashboards, reports, and performance summaries.  
+6. Use `Excel-Result-Tracker.csv` for raw dataset access in other tools or platforms.  
 
 ---
 
