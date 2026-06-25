@@ -19,8 +19,8 @@ This project is a **Class Result Analysis Dashboard** built in Microsoft Excel. 
 ## 📈 Project Insights
 - **Top Performers:** Amir Nazir, Touseef, Abid, Waqas, Adnan  
 - **Bottom Performers:** Qasim, Talha, Seyab, Mosawer, Bihzad  
-- **Pass Rate:** 32%  
-- **Failure Rate:** 68%  
+- **Pass Rate:** 100%  
+- **Failure Rate:** 0%  
 - **Highest Score:** 722 (Amir Nazir)  
 - **Lowest Score:** 284 (Qasim)  
 
