@@ -4,7 +4,17 @@
 This project is a **Class Result Analysis Dashboard** built in Microsoft Excel. It provides an interactive way to manage, analyze, and visualize student performance data using formulas, dashboards, and navigation buttons.
 
 ---
+📂 Project Structure
 
+Excel-Result-Tracker/
+│── Excel-Result-Tracker.xlsx
+│── Raw-DataSet.csv
+│── README.md
+└── Project Screenshots/
+├── Dashboard.png
+├── Home-Navigation.png
+├── Raw-Data.png
+└── Subject-Average.png
 ## 🚀 Features
 - 📋 Raw Data – Complete student records with marks, grades, and performance status.
 - 📊 Class Metrics – Total students, pass/fail rate, class average, highest and lowest scores.
