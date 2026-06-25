@@ -1,35 +1,35 @@
-# 📊 Class Result Dashboard (Excel Project)
+📊 Class Result Dashboard (Excel Project)
 
-## 📖 Project Overview
+📖 Project Overview
 
-This project is a **Class Result Analysis Dashboard** built in **Microsoft Excel**. It provides an interactive way to manage, analyze, and visualize student performance data using formulas, dashboards, and navigation buttons.
-
----
-
-## 🚀 Features
-
-- 📋 **Raw Data** – Complete student records with marks, grades, and performance status.
-- 📊 **Class Metrics** – Total students, pass/fail rate, class average, highest and lowest scores.
-- 🏆 **Marks Analysis** – Student rankings and overall performance.
-- 🎯 **Grade Distribution** – Distribution of grades (A–F).
-- 📚 **Subject Average** – Average marks for English, Urdu, Maths, Science, Islamiyat, and Tests.
-- 🏠 **Interactive Home Page** – One-click navigation using hyperlinks.
-- 🔙 **Back to Home Button** – Easy navigation between worksheets.
+This project is a Class Result Analysis Dashboard built in Microsoft Excel. It provides an interactive way to manage, analyze, and visualize student performance data using formulas, dashboards, and navigation buttons.
 
 ---
 
-## 📈 Project Insights
+🚀 Features
 
-- **Top Performers:** Amir Nazir, Touseef, Abid, Waqas, Adnan
-- **Bottom Performers:** Qasim, Talha, Seyab, Mosawer, Bihzad
-- **Pass Rate:** 32%
-- **Failure Rate:** 68%
-- **Highest Score:** 722 (Amir Nazir)
-- **Lowest Score:** 284 (Qasim)
+- 📋 Raw Data – Complete student records with marks, grades, and performance status.
+- 📊 Class Metrics – Total students, pass/fail rate, class average, highest and lowest scores.
+- 🏆 Marks Analysis – Student rankings and overall performance.
+- 🎯 Grade Distribution – Distribution of grades (A–F).
+- 📚 Subject Average – Average marks for English, Urdu, Maths, Science, Islamiyat, and Tests.
+- 🏠 Interactive Home Page – One-click navigation using hyperlinks.
+- 🔙 Back to Home Button – Easy navigation between worksheets.
 
 ---
 
-## 🛠️ Tools & Skills Used
+📈 Project Insights
+
+- Top Performers: Amir Nazir, Touseef, Abid, Waqas, Adnan
+- Bottom Performers: Qasim, Talha, Seyab, Mosawer, Bihzad
+- Pass Rate: 32%
+- Failure Rate: 68%
+- Highest Score: 722 (Amir Nazir)
+- Lowest Score: 284 (Qasim)
+
+---
+
+🛠️ Tools & Skills Used
 
 - Microsoft Excel
 - Formulas & Functions
@@ -41,45 +41,45 @@ This project is a **Class Result Analysis Dashboard** built in **Microsoft Excel
 
 ---
 
-## 📂 Files Included
+📂 Files Included
 
-- `Project 4 class result.xlsx`
-- `README.md`
-- `screenshots/`
-
----
-
-## 📸 Screenshots
-
-### Dashboard Overview
-
-![Dashboard Overview](screenshots/dashboard.png)
-
-### Home Navigation
-
-![Home Navigation](screenshots/home-navigation.png)
-
-### Raw Data
-
-![Raw Data](screenshots/raw-data.png)
-
-### Subject Average
-
-![Subject Average](screenshots/subject-average.png)
+- "excel-result-tracker1.xlsx"
+- "README.md"
+- "Project Screenshots/"
 
 ---
 
-## ▶️ How to Use
+📸 Screenshots
 
-1. Download the Excel workbook.
-2. Open **Project 4 class result.xlsx**.
-3. Go to the **Home** sheet.
+Dashboard Overview
+
+"Dashboard Overview" (Project%20Screenshots/Dashboard.png)
+
+Home Navigation
+
+"Home Navigation" (Project%20Screenshots/Home-Navigation.png)
+
+Raw Data
+
+"Raw Data" (Project%20Screenshots/Raw-Data.png)
+
+Subject Average
+
+"Subject Average" (Project%20Screenshots/Subject-Average.png)
+
+---
+
+▶️ How to Use
+
+1. Download or clone this repository.
+2. Open excel-result-tracker1.xlsx in Microsoft Excel.
+3. Go to the Home worksheet.
 4. Use the navigation buttons to move between worksheets.
 5. Explore dashboards, reports, and performance summaries.
 
 ---
 
-## 🎯 Purpose
+🎯 Purpose
 
 This project demonstrates Excel dashboard development and data analysis skills for:
 
@@ -87,19 +87,19 @@ This project demonstrates Excel dashboard development and data analysis skills f
 - Schools
 - Students
 - Recruiters
-- Freelance clients
+- Freelance Clients
 
 ---
 
-## 🔮 Future Enhancements
+🔮 Future Enhancements
 
 - Add interactive slicers.
-- Improve dashboard with additional charts.
+- Improve the dashboard with additional charts.
 - Automate ranking using dynamic formulas.
 - Add printable reports.
 
 ---
 
-## 🏷️ Tags
+🏷️ Tags
 
-`Excel` `Excel Dashboard` `Data Analysis` `Education` `Performance Tracking` `Microsoft Excel` `Dashboard` `Student Results`
+"Excel" "Microsoft Excel" "Excel Dashboard" "Data Analysis" "Dashboard" "Student Results" "Education" "Performance Tracking"
